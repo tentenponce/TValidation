@@ -5,6 +5,7 @@ Simple validation for Node JS. It can be translated to front-end javascript. (Th
 
 ```sh
 var validation = require('/validation');
+var errors = [];
 
 errors = validation.mobileNo(req.body.mobileNo);
 if (errors.length > 0) {
