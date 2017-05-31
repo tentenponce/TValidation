@@ -1,5 +1,5 @@
 # Validation
-Simple validation for Node JS. It can be translated to front-end javascript. (This is my most commonly used validations as of now, will add more in the future).
+Simple compiled validations for Node JS. It can be translated to front-end javascript. (This is my most commonly used validations as of now, will add more in the future).
 
 <b>Sample Use:<b/>
 
